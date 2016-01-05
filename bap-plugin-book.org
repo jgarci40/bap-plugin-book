@@ -114,7 +114,7 @@ than plain text.  The AST of the above program may look something like
 #+attr_latex: width=0.3\textwidth
 #+label: fig:ast
 #+caption: Abstract Syntax Tree Example
-[[file:media/Abstract_syntax_tree_for_Euclidean_algorithm.png]]
+[[file:media/Abstract_syntax_tree_for_Euclidean_algorithm.svg]]
 
 ASTs are useful: we can traverse the AST to find conditionals, loops,
 variables of a particular type, and so on.  
